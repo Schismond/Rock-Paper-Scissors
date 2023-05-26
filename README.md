@@ -17,10 +17,6 @@ Random number generation for computer-generated moves.
 Looping and iterating to create a playable game.
 By completing the lesson, learners should have a working understanding of how to create interactive programs using JavaScript and gain confidence in their ability to build simple games from scratch.
 
-## Live Demo
-
-- [Click here](https://schismond.github.io/ODIN-LANDING-PAGE/) to view a live demo of the website.
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
